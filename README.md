@@ -1,4 +1,4 @@
-### Projet de Scraping : Champions de League of Legends
+##Projet de Scraping : Champions de League of Legends
 
 -Ce projet a pour objectif de récupérer les informations des champions de League of Legends depuis le site officiel de leur wiki, puis de les afficher sous forme d'une page HTML dynamique.
 
