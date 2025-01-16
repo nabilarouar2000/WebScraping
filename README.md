@@ -14,11 +14,11 @@
 
 ###### Comment lancer le projet
 
-  - Cloner ou télécharger le projet depuis le dépôt GitHub : Lien vers le dépôt
+  - Cloner ou télécharger le projet depuis le dépôt GitHub : (https://github.com/nabilarouar2000/WebScraping.git)
 
-  - Exécuter le script Python :
+  - Exécuter le script Python : - python Scrape_and_Front.py
 
-  - python fichier.py
+##### Important : Attendez environ 10 minutes pour que le script récupère et structure tous les données nécessaires:
 
 ##### Prérequis
 
