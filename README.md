@@ -27,3 +27,6 @@
   - Les bibliothèques suivantes doivent être installées :
         beautifulsoup4
         requests
+
+    ![image](https://github.com/user-attachments/assets/ce2820bb-baeb-4615-a2bb-d8559f7535a3)
+
